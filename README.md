@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dipanjana2002
-- 👀 I’m interested in Cloud Computing and DevOps
+- 👀 I’m interested in Cloud Computing, Machine Learning, AI and Cyber Security
 - 📫 How to reach me: chakrabortydipanjana100@gmail.com
 - 😄 Pronouns: She/Her
 
